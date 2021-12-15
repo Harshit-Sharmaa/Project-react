@@ -1,0 +1,466 @@
+.main{
+    width: 947px;
+    height: 673px;
+    margin-left: 180px;
+    display: flex;
+    flex-direction: row;
+    background-color:#ccc5c5;
+  }
+  .leftMain{
+    width: 260px;
+    height: 673px;
+    background-color: white;
+    border-radius: 10px 0px 0px 10px;
+  }
+  
+  .rightMain{
+    width: 687px;
+    height: 673px;
+    background-color:#E5E5E5 ;
+    border-radius: 0px 10px 10px 0px;
+  }
+  .lmh1{
+  width: 88px;
+  height: 27px;
+  margin-left: 30px;
+  margin-top: 35px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #4C5565;
+  background-color:white ;
+  }
+  .lmh2{
+    width: 190px;
+    height: 36px;
+    margin-left: 30px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #4C5565;
+    background-color:white ;
+  }
+  .fa-check{
+    background-color:white ;
+    color: #26C24C;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  .contact{
+  width: 50px;
+  height: 18px;
+  margin-left: 5px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+  color: #26C24C;
+  background-color:white ;
+  }
+  .busov{
+  width: 112px;
+  height: 18px;
+  margin-left: 30px;
+  margin-top: 35px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+  color: #2C3539;
+  background-color:white ;
+  }
+  .businessbar{
+    background-color:white ;
+  }
+  .businessDetails{
+  width: 260px;
+  height: 35px;
+  background: #2B83EA;
+  margin-top: 15px;
+  padding-top: 10px;
+  }
+  .bdspan{
+  width: 98px;
+  height: 18px;
+  margin-left: 30px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  color: #F0F3F4;
+  background: #2B83EA;
+  }
+  .fa-chevron-right{
+    background: #2B83EA;
+    color:#F0F3F4;
+    margin-left: 100px;
+  
+  }
+  .rmh1{
+  width: 157px;
+  height: 27px;
+  margin-top: 32px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #4C5565;
+  background-color:#E5E5E5 ;
+  margin-left: 50px;
+  }
+  .panh1{
+  width: 46px;
+  height: 27px;
+  margin-left: 200px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #4C5565;
+  background-color:#E5E5E5 ;
+  }
+  .pan{
+    background-color:#E5E5E5 ;
+  }
+  .pani{
+  width: 266px;
+  height: 47px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  border-radius: 5px;
+  margin-left: 30px;
+  }
+  .panhh1{
+    width: 46px;
+    height: 27px;
+    margin-left: 66px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4C5565;
+    background-color:#E5E5E5 ;
+    }
+    .panholder{
+      background-color:#E5E5E5 ;
+      margin-top: 10px;
+    }
+    .panhi{
+    width: 266px;
+    height: 47px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 30px;
+    }
+    .panhh2{
+  width: 252px;
+  height: 45px;
+  margin-left: 273px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 15px;
+  color: #4C5565;
+  background-color:#E5E5E5 ;
+  }
+  .billh1{
+    width: 46px;
+    height: 27px;
+    margin-left: 131px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4C5565;
+    background-color:#E5E5E5 ;
+    }
+    .billing{
+      background-color:#E5E5E5 ;
+      margin-top: 10px;
+    }
+    .billi{
+    width: 266px;
+    height: 47px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 30px;
+    }
+    .addh1{
+      width: 46px;
+      height: 27px;
+      margin-left: 162px;
+      font-family: Poppins;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      color: #4C5565;
+      background-color:#E5E5E5 ;
+      }
+      .address{
+        background-color:#E5E5E5 ;
+        margin-top: 10px;
+      }
+      .addi{
+      width: 266px;
+      height: 87px;
+      background: #FFFFFF;
+      border: 1px solid rgba(0, 0, 0, 0.25);
+      box-sizing: border-box;
+      border-radius: 5px;
+      margin-left: 30px;
+      }
+      .pch1{
+        width: 46px;
+        height: 27px;
+        margin-left: 154px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        color: #4C5565;
+        background-color:#E5E5E5 ;
+        }
+        .pincode{
+          background-color:#E5E5E5 ;
+          margin-top: 10px;
+        }
+        .pci{
+        width: 266px;
+        height: 47px;
+        background: #FFFFFF;
+        border: 1px solid rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        border-radius: 5px;
+        margin-left: 30px;
+        }
+        .ch1{
+          width: 46px;
+          height: 27px;
+          margin-left: 199px;
+          font-family: Poppins;
+          font-style: normal;
+          font-weight: 600;
+          font-size: 18px;
+          line-height: 27px;
+          color: #4C5565;
+          background-color:#E5E5E5 ;
+          }
+          .city{
+            background-color:#E5E5E5 ;
+            margin-top: 10px;
+          }
+          .ci{
+          width: 266px;
+          height: 47px;
+          background: #FFFFFF;
+          border: 1px solid rgba(0, 0, 0, 0.25);
+          box-sizing: border-box;
+          border-radius: 5px;
+          margin-left: 30px;
+          }  
+          .stateh1{
+            width: 46px;
+            height: 27px;
+            margin-left: 187px;
+            font-family: Poppins;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 27px;
+            color: #4C5565;
+            background-color:#E5E5E5 ;
+            }
+            .state{
+              background-color:#E5E5E5 ;
+              margin-top: 10px;
+            }
+            .statei{
+            width: 266px;
+            height: 47px;
+            background: #FFFFFF;
+            border: 1px solid rgba(0, 0, 0, 0.25);
+            box-sizing: border-box;
+            border-radius: 5px;
+            margin-left: 30px;
+            } 
+            
+  .button{
+    background-color:#E5E5E5 ;
+    margin-top: 60px;
+    padding-left: 250px;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }          
+  .checkbox{
+  width: 15px;
+  height: 15px;
+  background: #F0F3F4;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+  border-radius: 3px;
+  }   
+  .terms{
+  width: 211px;
+  height: 15px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 15px;
+  color: #000000;
+  background-color:#E5E5E5 ;
+  }
+  .submit{
+  padding: 8px 17px;
+  width: 143px;
+  height: 34px;
+  margin-left: 30px;
+  background: #2B83EA;
+  border-radius: 7px;
+  border: none;
+  color: white;
+  font-family: Poppins;
+  font-size: 12px;
+  }
+  
+  @media (max-width:400px){
+    .main{
+      width: 400px;
+      height: 1000px;
+      display: flex;
+      flex-direction: column;
+    }
+    .leftMain{
+      width: 100%;
+      height: 226px;
+      background-color: white;
+      border-radius: 10px 0px 0px 0px;
+    }
+    
+    .rightMain{
+      width: 100%;
+      height: 1000px;
+      background-color:#E5E5E5 ;
+      border-radius: 0px 0px 0px 10px;
+    }
+    .businessbar{
+      background-color: white;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+    }
+    .businessDetails{
+      width: 200px;
+      height: 35px;
+      background: #2B83EA;
+      padding-top: 10px;
+      margin-left: 60px;
+      }
+      .bdspan{
+      width: 98px;
+      height: 18px;
+      margin-left: 30px;
+      font-family: Poppins;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 12px;
+      line-height: 18px;
+      color: #F0F3F4;
+      background: #2B83EA;
+      }
+      .fa-chevron-right{
+        background: #2B83EA;
+        color:#F0F3F4;
+        margin-left: 50px;
+      }
+      .busov{
+        padding-bottom: 10px;
+      }
+      .panh1{
+        font-size: 14px;
+        margin-left: 110px;
+        }
+      .pani{
+          width: 200px;
+          }
+      .panhh1{
+        font-size: 14px;
+        margin-left: 6px;
+      }
+      .panhi{
+        width: 200px;
+      }
+      .panhh2{
+        margin-left: 175px;
+        font-size: 9px;
+        width: 200px;
+        height: 50px;
+      }
+      .billing{
+        margin-top: 0px;
+      }
+      .billh1{
+        font-size: 14px;
+        margin-left: 55px;
+      }
+      .billi{
+        width: 200px;
+      }
+      .addh1{
+        font-size: 14px;
+        margin-left: 80px;
+      }
+      .addi{
+        width: 200px;
+      }
+      .pch1{
+        font-size: 14px;
+        margin-left: 74px;
+      }
+      .pci{
+        width: 200px;
+      }
+      .ch1{
+        font-size: 14px;
+        margin-left: 110px;
+      }
+      .ci{
+        width: 200px;
+      }
+      .stateh1{
+        font-size: 14px;
+        margin-left: 100px;
+      }
+      .statei{
+        width: 200px;
+      }
+      .button{
+        margin-left: 0px;
+        padding-left: 40px;
+      }
+      .submit{
+        margin-top: 20px;
+      }
+  
+  
+  }

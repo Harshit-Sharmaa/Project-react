@@ -1,17 +1,18 @@
 import React from "react"
-import Main from "./main"
-import Upperbar from "./upperbar"
+import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom"
+import Login from "./pages/Login"
+import Kyc from "./pages/Kyc"
 
 const App = () => {
   return (
-    <>
-      <div className="whole">
-        <Upperbar/>
-        <Main />
+    <BrowserRouter>
+      <Switch>
+        <Route path="/login" component={Login} />
+        <Route path="/kyc" component={Kyc} />
+        <Route path="/" component={() => <Redirect to="/login" />} />
+      </Switch>
 
-      </div>
-
-    </>
+    </BrowserRouter>
   )
 }
 export default App;
