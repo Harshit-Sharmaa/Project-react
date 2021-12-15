@@ -1,25 +1,29 @@
-.main{
+.kyc-container {
+  background-color:#ccc5c5;
+  padding: 40px;
+  border-radius: 10px;
+}
+.main-kyc{
     width: 947px;
     height: 673px;
     margin-left: 180px;
     display: flex;
     flex-direction: row;
-    background-color:#ccc5c5;
   }
-  .leftMain{
+  .leftMain-kyc{
     width: 260px;
     height: 673px;
     background-color: white;
     border-radius: 10px 0px 0px 10px;
   }
   
-  .rightMain{
+  .rightMain-kyc{
     width: 687px;
     height: 673px;
     background-color:#E5E5E5 ;
     border-radius: 0px 10px 10px 0px;
   }
-  .lmh1{
+  .lmh1-kyc{
   width: 88px;
   height: 27px;
   margin-left: 30px;
@@ -32,7 +36,7 @@
   color: #4C5565;
   background-color:white ;
   }
-  .lmh2{
+  .lmh2-kyc{
     width: 190px;
     height: 36px;
     margin-left: 30px;
@@ -50,7 +54,7 @@
     margin-left: 30px;
     margin-top: 20px;
   }
-  .contact{
+  .contact-kyc{
   width: 50px;
   height: 18px;
   margin-left: 5px;
@@ -62,7 +66,7 @@
   color: #26C24C;
   background-color:white ;
   }
-  .busov{
+  .busov-kyc{
   width: 112px;
   height: 18px;
   margin-left: 30px;
@@ -75,17 +79,17 @@
   color: #2C3539;
   background-color:white ;
   }
-  .businessbar{
+  .businessbar-kyc{
     background-color:white ;
   }
-  .businessDetails{
+  .businessDetails-kyc{
   width: 260px;
   height: 35px;
   background: #2B83EA;
   margin-top: 15px;
   padding-top: 10px;
   }
-  .bdspan{
+  .bdspan-kyc{
   width: 98px;
   height: 18px;
   margin-left: 30px;
@@ -103,7 +107,7 @@
     margin-left: 100px;
   
   }
-  .rmh1{
+  .rmh1-kyc{
   width: 157px;
   height: 27px;
   margin-top: 32px;
@@ -116,7 +120,7 @@
   background-color:#E5E5E5 ;
   margin-left: 50px;
   }
-  .panh1{
+  .panh1-kyc{
   width: 46px;
   height: 27px;
   margin-left: 200px;
@@ -128,10 +132,10 @@
   color: #4C5565;
   background-color:#E5E5E5 ;
   }
-  .pan{
+  .pan-kyc{
     background-color:#E5E5E5 ;
   }
-  .pani{
+  .pani-kyc{
   width: 266px;
   height: 47px;
   background: #FFFFFF;
@@ -140,7 +144,7 @@
   border-radius: 5px;
   margin-left: 30px;
   }
-  .panhh1{
+  .panhh1-kyc{
     width: 46px;
     height: 27px;
     margin-left: 66px;
@@ -152,11 +156,11 @@
     color: #4C5565;
     background-color:#E5E5E5 ;
     }
-    .panholder{
+    .panholder-kyc{
       background-color:#E5E5E5 ;
       margin-top: 10px;
     }
-    .panhi{
+    .panhi-kyc{
     width: 266px;
     height: 47px;
     background: #FFFFFF;
@@ -165,7 +169,7 @@
     border-radius: 5px;
     margin-left: 30px;
     }
-    .panhh2{
+    .panhh2-kyc{
   width: 252px;
   height: 45px;
   margin-left: 273px;
@@ -177,7 +181,7 @@
   color: #4C5565;
   background-color:#E5E5E5 ;
   }
-  .billh1{
+  .billh1-kyc{
     width: 46px;
     height: 27px;
     margin-left: 131px;
@@ -189,11 +193,11 @@
     color: #4C5565;
     background-color:#E5E5E5 ;
     }
-    .billing{
+    .billing-kyc{
       background-color:#E5E5E5 ;
       margin-top: 10px;
     }
-    .billi{
+    .billi-kyc{
     width: 266px;
     height: 47px;
     background: #FFFFFF;
@@ -202,7 +206,7 @@
     border-radius: 5px;
     margin-left: 30px;
     }
-    .addh1{
+    .addh1-kyc{
       width: 46px;
       height: 27px;
       margin-left: 162px;
@@ -214,11 +218,11 @@
       color: #4C5565;
       background-color:#E5E5E5 ;
       }
-      .address{
+      .address-kyc{
         background-color:#E5E5E5 ;
         margin-top: 10px;
       }
-      .addi{
+      .addi-kyc{
       width: 266px;
       height: 87px;
       background: #FFFFFF;
@@ -227,7 +231,7 @@
       border-radius: 5px;
       margin-left: 30px;
       }
-      .pch1{
+      .pch1-kyc{
         width: 46px;
         height: 27px;
         margin-left: 154px;
@@ -239,11 +243,11 @@
         color: #4C5565;
         background-color:#E5E5E5 ;
         }
-        .pincode{
+        .pincode-kyc{
           background-color:#E5E5E5 ;
           margin-top: 10px;
         }
-        .pci{
+        .pci-kyc{
         width: 266px;
         height: 47px;
         background: #FFFFFF;
@@ -252,7 +256,7 @@
         border-radius: 5px;
         margin-left: 30px;
         }
-        .ch1{
+        .ch1-kyc{
           width: 46px;
           height: 27px;
           margin-left: 199px;
@@ -264,11 +268,11 @@
           color: #4C5565;
           background-color:#E5E5E5 ;
           }
-          .city{
+          .city-kyc{
             background-color:#E5E5E5 ;
             margin-top: 10px;
           }
-          .ci{
+          .ci-kyc{
           width: 266px;
           height: 47px;
           background: #FFFFFF;
@@ -277,7 +281,7 @@
           border-radius: 5px;
           margin-left: 30px;
           }  
-          .stateh1{
+          .stateh1-kyc{
             width: 46px;
             height: 27px;
             margin-left: 187px;
@@ -289,11 +293,11 @@
             color: #4C5565;
             background-color:#E5E5E5 ;
             }
-            .state{
+            .state-kyc{
               background-color:#E5E5E5 ;
               margin-top: 10px;
             }
-            .statei{
+            .statei-kyc{
             width: 266px;
             height: 47px;
             background: #FFFFFF;
@@ -303,7 +307,7 @@
             margin-left: 30px;
             } 
             
-  .button{
+  .button-kyc{
     background-color:#E5E5E5 ;
     margin-top: 60px;
     padding-left: 250px;
@@ -311,7 +315,7 @@
     padding-top: 20px;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
   }          
-  .checkbox{
+  .checkbox-kyc{
   width: 15px;
   height: 15px;
   background: #F0F3F4;
@@ -319,7 +323,7 @@
   box-sizing: border-box;
   border-radius: 3px;
   }   
-  .terms{
+  .terms-kyc{
   width: 211px;
   height: 15px;
   font-family: Poppins;
@@ -330,7 +334,7 @@
   color: #000000;
   background-color:#E5E5E5 ;
   }
-  .submit{
+  .submit-kyc{
   padding: 8px 17px;
   width: 143px;
   height: 34px;
@@ -344,39 +348,39 @@
   }
   
   @media (max-width:400px){
-    .main{
+    .main-kyc{
       width: 400px;
       height: 1000px;
       display: flex;
       flex-direction: column;
     }
-    .leftMain{
+    .leftMain-kyc{
       width: 100%;
       height: 226px;
       background-color: white;
       border-radius: 10px 0px 0px 0px;
     }
     
-    .rightMain{
+    .rightMain-kyc{
       width: 100%;
       height: 1000px;
       background-color:#E5E5E5 ;
       border-radius: 0px 0px 0px 10px;
     }
-    .businessbar{
+    .businessbar-kyc{
       background-color: white;
       display: flex;
       flex-direction: row;
       align-items: center;
     }
-    .businessDetails{
+    .businessDetails-kyc{
       width: 200px;
       height: 35px;
       background: #2B83EA;
       padding-top: 10px;
       margin-left: 60px;
       }
-      .bdspan{
+      .bdspan-kyc{
       width: 98px;
       height: 18px;
       margin-left: 30px;
@@ -393,72 +397,72 @@
         color:#F0F3F4;
         margin-left: 50px;
       }
-      .busov{
+      .busov-kyc{
         padding-bottom: 10px;
       }
-      .panh1{
+      .panh1-kyc{
         font-size: 14px;
         margin-left: 110px;
         }
-      .pani{
+      .pani-kyc{
           width: 200px;
           }
-      .panhh1{
+      .panhh1-kyc{
         font-size: 14px;
         margin-left: 6px;
       }
-      .panhi{
+      .panhi-kyc{
         width: 200px;
       }
-      .panhh2{
+      .panhh2-kyc{
         margin-left: 175px;
         font-size: 9px;
         width: 200px;
         height: 50px;
       }
-      .billing{
+      .billing-kyc{
         margin-top: 0px;
       }
-      .billh1{
+      .billh1-kyc{
         font-size: 14px;
         margin-left: 55px;
       }
-      .billi{
+      .billi-kyc{
         width: 200px;
       }
-      .addh1{
+      .addh1-kyc{
         font-size: 14px;
         margin-left: 80px;
       }
-      .addi{
+      .addi-kyc{
         width: 200px;
       }
-      .pch1{
+      .pch1-kyc{
         font-size: 14px;
         margin-left: 74px;
       }
-      .pci{
+      .pci-kyc{
         width: 200px;
       }
-      .ch1{
+      .ch1-kyc{
         font-size: 14px;
         margin-left: 110px;
       }
-      .ci{
+      .ci-kyc{
         width: 200px;
       }
-      .stateh1{
+      .stateh1-kyc{
         font-size: 14px;
         margin-left: 100px;
       }
-      .statei{
+      .statei-kyc{
         width: 200px;
       }
-      .button{
+      .button-kyc{
         margin-left: 0px;
         padding-left: 40px;
       }
-      .submit{
+      .submit-kyc{
         margin-top: 20px;
       }
   

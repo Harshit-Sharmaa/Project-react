@@ -6,9 +6,11 @@ import "../styles/kyc.css"
 
 const Kyc = () => {
     return (
-        <div className="main">
-            <Leftmain />
-            <Rightmain />
+        <div className="kyc-container">
+            <div className="main-kyc">
+                <Leftmain />
+                <Rightmain />
+            </div>
         </div>
     )
 }
