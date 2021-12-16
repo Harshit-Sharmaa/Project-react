@@ -2,11 +2,12 @@
   background-color:#ccc5c5;
   padding: 40px;
   border-radius: 10px;
+  zoom: 80%;
 }
 .main-kyc{
     width: 947px;
     height: 673px;
-    margin-left: 180px;
+    margin-left: 250px;
     display: flex;
     flex-direction: row;
   }
@@ -347,12 +348,19 @@
   font-size: 12px;
   }
   
-  @media (max-width:400px){
+  @media (max-width:800px){
+    .kyc-container {
+      width: 100%;
+      background-color:#ccc5c5;
+      padding: 10px;
+      zoom: 100%;
+    }
     .main-kyc{
       width: 400px;
       height: 1000px;
       display: flex;
       flex-direction: column;
+      margin: 0px;
     }
     .leftMain-kyc{
       width: 100%;
